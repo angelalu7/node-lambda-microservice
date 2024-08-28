@@ -1,0 +1,13 @@
+{
+  "name": "BrainRidge",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.585.0",
+    "@aws-sdk/lib-dynamodb": "^3.585.0",
+    "aws-sdk": "^2.1684.0",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "serverless-http": "^3.2.0"
+  }
+}
